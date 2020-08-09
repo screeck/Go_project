@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">Go_project</string>
+    <string name="app_name">Go Tactics</string>
     <string name="tab_text_1">Scan</string>
     <string name="tab_text_2">Tactics</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_name">SETTINGS</string>
+    <string name="save">SAVE</string>
 </resources>
